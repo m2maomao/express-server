@@ -19,7 +19,7 @@
   "homepage": "https://github.com/m2maomao/express-server#readme",
   "dependencies": {
     "ejs": "^2.7.4",
-    "express": "^4.15.3",
+    "express": "^4.17.3",
     "socket.io": "^2.3.0",
     "body-parser": "^1.19.0"
   }
